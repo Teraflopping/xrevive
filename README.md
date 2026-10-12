@@ -2,8 +2,7 @@
 
 A desktop launcher for original Xbox games recompiled with [Xrecomp](https://github.com/Teraflopping/Xrecomp), with online services from the Xbox Live revival at [xb.live](https://xb.live).
 
-**Status: early test builds.** Get the latest from [Releases](https://github.com/Teraflopping/xrevive/releases/latest).
-<img width="896" height="559" alt="image" src="https://github.com/user-attachments/assets/76d7395b-94da-4464-a5c9-6556c864bddf" />
+# Not ready yet. Will release probably later October 12th
 
 ## Planned
 
