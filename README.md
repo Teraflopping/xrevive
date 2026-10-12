@@ -4,6 +4,9 @@ A desktop launcher for original Xbox games recompiled with [Xrecomp](https://git
 
 # Not ready yet. Will release probably later October 12th
 
+<img width="896" height="559" alt="Screenshot 2026-10-11 105320" src="https://github.com/user-attachments/assets/fb492d88-84bb-4196-b351-54782f26c00c" />
+
+
 ## Planned
 
 - Turn your own game discs into native PC games and keep them in one library.
