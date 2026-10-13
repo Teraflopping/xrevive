@@ -11,9 +11,7 @@ The hosted game executables currently support **Windows x64**. macOS and Linux l
 
 ## Features
 
-- Stay signed in across restarts, and keep xrevive running in the tray when you close its window. Use **Quit xrevive** in the tray menu to exit.
-
-- Add your own ISO or extracted game folder, then download its matching executable from Release or Beta.
+- Add your own ISO or extracted game folder, then recomp its matching executable from Release or Beta.
 - Browse available releases and upcoming games, with automatic game and launcher update checks.
 - Sign in with xb.live and view friends, live lobbies, community events, and leaderboards.
 - Manage installed games with play, local-file browsing, and uninstall actions.
