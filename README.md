@@ -8,7 +8,6 @@ A desktop launcher for original Xbox games recompiled with [Xrecomp](https://git
 
 The hosted game executables currently support **Windows x64**. macOS and Linux launcher packages are also available, but do not run those Windows game builds natively.
 
-<img width="896" height="559" alt="xrevive library and online services" src="https://github.com/user-attachments/assets/fb492d88-84bb-4196-b351-54782f26c00c" />
 
 ## Features
 
