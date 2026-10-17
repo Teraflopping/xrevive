@@ -20,7 +20,7 @@ Die bereitgestellten Spiel-Executables unterstützen derzeit **Windows x64**. Un
 - Spielstände-Tab mit Sicherung, Wiederherstellung, Import, PS2-Spielstandkonvertierung und Spielstand-Editoren für Midnight Club 3 und NINJA GAIDEN Black.
 - Der Shader-Cache bleibt beim Spiel, sodass nur der erste Start Shader kompiliert.
 - Klare Fehlermeldungen, die erklären, was schiefging und wie man es behebt, einschließlich einer Schaltfläche **Allow xrevive in Windows Security**, wenn der überwachte Ordnerzugriff eine Installation blockiert.
-- Spanisch, Italienisch und Arabisch sind unter Einstellungen > Sprache verfügbar; auf Arabisch wird das ganze Fenster von rechts nach links angezeigt.
+- Unter Einstellungen > Sprache stehen 10 Sprachen zur Wahl: Englisch, Deutsch, Französisch, Spanisch, Italienisch, brasilianisches Portugiesisch, Russisch, Arabisch, Japanisch und vereinfachtes Chinesisch. Auf Arabisch wird das ganze Fenster von rechts nach links angezeigt.
 - Füge installierte Spiele zu Steam hinzu (in den Einstellungen oder der Bibliothek), mit Coverbildern und Steam Input auf dem Deck.
 - Systemprüfung für Windows 8.1+ und Direct3D 11, mit der Option „Trotzdem spielen“.
 - XB-Online-Spielstände aus dem alten Ordner `XBL-Hosted` werden beim Drücken von Play in den üblichen Spielstandordner jedes Spiels kopiert. Vorhandene Spielstände werden nie ersetzt und nichts wird gelöscht; sobald du deine Spielstände geprüft hast, kannst du `SaveData\XBL-Hosted` selbst löschen.

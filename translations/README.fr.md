@@ -20,7 +20,7 @@ Les exécutables de jeux hébergés prennent actuellement en charge **Windows x6
 - Onglet Sauvegardes avec sauvegarde, restauration, importation, conversion de sauvegardes PS2 et éditeurs de sauvegardes pour Midnight Club 3 et NINJA GAIDEN Black.
 - Le cache de shaders reste avec le jeu, donc seul le premier lancement compile les shaders.
 - Des messages d'erreur clairs qui expliquent ce qui s'est mal passé et comment le corriger, dont un bouton **Allow xrevive in Windows Security** quand l'Accès contrôlé aux dossiers bloque une installation.
-- L'espagnol, l'italien et l'arabe sont disponibles dans Paramètres > Langue ; en arabe, toute la fenêtre s'affiche de droite à gauche.
+- 10 langues au choix dans Paramètres > Langue : anglais, allemand, français, espagnol, italien, portugais du Brésil, russe, arabe, japonais et chinois simplifié. En arabe, toute la fenêtre s'affiche de droite à gauche.
 - Ajoutez les jeux installés à Steam (depuis les Paramètres ou la bibliothèque), avec jaquettes et Steam Input sur le Deck.
 - Vérification du système pour Windows 8.1+ et Direct3D 11, avec l'option Jouer quand même.
 - Les sauvegardes XB Online de l'ancien dossier `XBL-Hosted` sont copiées dans le dossier de sauvegardes habituel de chaque jeu quand vous appuyez sur Play. Les sauvegardes existantes ne sont jamais remplacées et rien n'est supprimé ; une fois vos sauvegardes vérifiées, vous pouvez supprimer `SaveData\XBL-Hosted` vous-même.

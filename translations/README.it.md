@@ -20,7 +20,7 @@ Gli eseguibili dei giochi ospitati supportano attualmente **Windows x64**. Su Li
 - Scheda Salvataggi con backup, ripristino, importazione, conversione dei salvataggi PS2 ed editor dei salvataggi per Midnight Club 3 e NINJA GAIDEN Black.
 - La cache degli shader resta con il gioco, quindi solo il primo avvio compila gli shader.
 - Messaggi di errore chiari che spiegano cosa è andato storto e come risolverlo, incluso un pulsante **Allow xrevive in Windows Security** quando l'Accesso controllato alle cartelle blocca un'installazione.
-- Spagnolo, italiano e arabo sono disponibili in Impostazioni > Lingua; in arabo l'intera finestra viene mostrata da destra a sinistra.
+- 10 lingue a scelta in Impostazioni > Lingua: inglese, tedesco, francese, spagnolo, italiano, portoghese brasiliano, russo, arabo, giapponese e cinese semplificato. In arabo l'intera finestra viene mostrata da destra a sinistra.
 - Aggiungi i giochi installati a Steam (dalle Impostazioni o dalla libreria), con copertine e Steam Input sul Deck.
 - Controllo del sistema per Windows 8.1+ e Direct3D 11, con l'opzione Gioca comunque.
 - I salvataggi XB Online della vecchia cartella `XBL-Hosted` vengono copiati nella normale cartella dei salvataggi di ogni gioco quando premi Play. I salvataggi esistenti non vengono mai sostituiti e non viene cancellato nulla; dopo aver controllato i tuoi salvataggi, puoi eliminare tu stesso `SaveData\XBL-Hosted`.

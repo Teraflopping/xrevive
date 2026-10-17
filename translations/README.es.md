@@ -20,7 +20,7 @@ Los ejecutables de los juegos alojados actualmente son compatibles con **Windows
 - Pestaña Saves con respaldo, restauración, importación, conversión de partidas de PS2 y editores de partidas para Midnight Club 3 y NINJA GAIDEN Black.
 - La caché de shaders se queda con el juego, así que solo el primer inicio compila los shaders.
 - Mensajes de error claros que explican qué salió mal y cómo solucionarlo, incluido un botón **Allow xrevive in Windows Security** cuando el Acceso controlado a carpetas bloquea una instalación.
-- Español, italiano y árabe disponibles en Configuración > Idioma; en árabe toda la ventana se muestra de derecha a izquierda.
+- Elige entre 10 idiomas en Configuración > Idioma: inglés, alemán, francés, español, italiano, portugués de Brasil, ruso, árabe, japonés y chino simplificado. En árabe toda la ventana se muestra de derecha a izquierda.
 - Agrega juegos instalados a Steam (Configuración o biblioteca), con portadas y Steam Input en el Deck.
 - Verificación del sistema para Windows 8.1+ y Direct3D 11, con la opción de Jugar de todos modos.
 - Las partidas de XB Online de la antigua carpeta `XBL-Hosted` se copian a la carpeta de partidas habitual de cada juego cuando presionas Play. Las partidas existentes nunca se reemplazan y no se borra nada; después de revisar tus partidas, puedes borrar `SaveData\XBL-Hosted` tú mismo.

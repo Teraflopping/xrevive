@@ -20,7 +20,7 @@ The hosted game executables currently support **Windows x64**. On Linux they can
 - Saves tab with backup, restore, import, PS2 save conversion, and save editors for Midnight Club 3 and NINJA GAIDEN Black.
 - Shader cache stays with the game, so only the first launch compiles shaders.
 - Clear error messages that explain what went wrong and how to fix it, including an **Allow xrevive in Windows Security** button when Controlled folder access blocks an install.
-- Spanish, Italian and Arabic are available under Settings > Language, and Arabic shows the whole window right to left.
+- Choose from 10 languages under Settings > Language: English, German, French, Spanish, Italian, Brazilian Portuguese, Russian, Arabic, Japanese and Simplified Chinese. Arabic shows the whole window right to left.
 - Add installed games to Steam (Settings or library), with cover art and Steam Input on Deck.
 - System check for Windows 8.1+ and Direct3D 11, with optional Play anyway.
 - XB Online saves from the old `XBL-Hosted` folder are copied into each game's usual save folder when you press Play. Existing saves are never replaced and nothing is deleted; once you've checked your saves, you can delete `SaveData\XBL-Hosted` yourself.

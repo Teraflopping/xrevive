@@ -20,7 +20,7 @@ Os executáveis dos jogos hospedados atualmente suportam **Windows x64**. No Lin
 - Aba Saves com backup, restauração, importação, conversão de save de PS2 e editores de save para Midnight Club 3 e NINJA GAIDEN Black.
 - O cache de shaders fica com o jogo, então só a primeira abertura compila os shaders.
 - Mensagens de erro claras que explicam o que deu errado e como resolver, incluindo um botão **Allow xrevive in Windows Security** quando o Acesso controlado a pastas bloqueia uma instalação.
-- Espanhol, italiano e árabe disponíveis em Configurações > Idioma; em árabe a janela toda fica da direita para a esquerda.
+- Escolha entre 10 idiomas em Configurações > Idioma: inglês, alemão, francês, espanhol, italiano, português do Brasil, russo, árabe, japonês e chinês simplificado. Em árabe a janela toda fica da direita para a esquerda.
 - Adicione jogos instalados ao Steam (Configurações ou biblioteca), com capas e Steam Input no Deck.
 - Verificação de sistema para Windows 8.1+ e Direct3D 11, com opção de Jogar mesmo assim.
 - Os saves do XB Online da antiga pasta `XBL-Hosted` são copiados para a pasta de saves normal de cada jogo quando você aperta Play. Saves existentes nunca são substituídos e nada é apagado; depois de conferir seus saves, você mesmo pode apagar `SaveData\XBL-Hosted`.
