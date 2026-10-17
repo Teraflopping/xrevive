@@ -1,6 +1,6 @@
 # xrevive
 
-### [**English**](README.md) · [**Deutsch**](README.de.md) · [**Français**](README.fr.md) · [**Español**](README.es.md) · [**Italiano**](README.it.md) · [**Português (Brasil)**](README.pt-BR.md) · [**Русский**](README.ru.md) · [**العربية**](README.ar.md) · **日本語** · [**简体中文**](README.zh-CN.md)
+### [**English**](../README.md) · [**Deutsch**](README.de.md) · [**Français**](README.fr.md) · [**Español**](README.es.md) · [**Italiano**](README.it.md) · [**Português (Brasil)**](README.pt-BR.md) · [**Русский**](README.ru.md) · [**العربية**](README.ar.md) · **日本語** · [**简体中文**](README.zh-CN.md)
 
 [Xrecomp](https://github.com/Teraflopping/Xrecomp) で再コンパイルした初代 Xbox ゲーム用のデスクトップランチャーです。オンラインサービスは Xbox Live 復活プロジェクト [xb.live](https://xb.live) が提供します。
 

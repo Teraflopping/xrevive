@@ -1,6 +1,6 @@
 # xrevive
 
-### [**English**](README.md) · [**Deutsch**](README.de.md) · [**Français**](README.fr.md) · [**Español**](README.es.md) · [**Italiano**](README.it.md) · [**Português (Brasil)**](README.pt-BR.md) · **Русский** · [**العربية**](README.ar.md) · [**日本語**](README.ja.md) · [**简体中文**](README.zh-CN.md)
+### [**English**](../README.md) · [**Deutsch**](README.de.md) · [**Français**](README.fr.md) · [**Español**](README.es.md) · [**Italiano**](README.it.md) · [**Português (Brasil)**](README.pt-BR.md) · **Русский** · [**العربية**](README.ar.md) · [**日本語**](README.ja.md) · [**简体中文**](README.zh-CN.md)
 
 Настольный лаунчер для игр с первой Xbox, перекомпилированных с помощью [Xrecomp](https://github.com/Teraflopping/Xrecomp), с онлайн-сервисами возрождённого Xbox Live на [xb.live](https://xb.live).
 

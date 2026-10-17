@@ -1,6 +1,6 @@
 # xrevive
 
-### [**English**](README.md) · [**Deutsch**](README.de.md) · [**Français**](README.fr.md) · [**Español**](README.es.md) · [**Italiano**](README.it.md) · [**Português (Brasil)**](README.pt-BR.md) · [**Русский**](README.ru.md) · **العربية** · [**日本語**](README.ja.md) · [**简体中文**](README.zh-CN.md)
+### [**English**](../README.md) · [**Deutsch**](README.de.md) · [**Français**](README.fr.md) · [**Español**](README.es.md) · [**Italiano**](README.it.md) · [**Português (Brasil)**](README.pt-BR.md) · [**Русский**](README.ru.md) · **العربية** · [**日本語**](README.ja.md) · [**简体中文**](README.zh-CN.md)
 
 <div dir="rtl">
 

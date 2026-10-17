@@ -1,6 +1,6 @@
 # xrevive
 
-### **English** · [**Deutsch**](README.de.md) · [**Français**](README.fr.md) · [**Español**](README.es.md) · [**Italiano**](README.it.md) · [**Português (Brasil)**](README.pt-BR.md) · [**Русский**](README.ru.md) · [**العربية**](README.ar.md) · [**日本語**](README.ja.md) · [**简体中文**](README.zh-CN.md)
+### **English** · [**Deutsch**](translations/README.de.md) · [**Français**](translations/README.fr.md) · [**Español**](translations/README.es.md) · [**Italiano**](translations/README.it.md) · [**Português (Brasil)**](translations/README.pt-BR.md) · [**Русский**](translations/README.ru.md) · [**العربية**](translations/README.ar.md) · [**日本語**](translations/README.ja.md) · [**简体中文**](translations/README.zh-CN.md)
 
 A desktop launcher for original Xbox games recompiled with [Xrecomp](https://github.com/Teraflopping/Xrecomp), with online services from the Xbox Live revival at [xb.live](https://xb.live).
 
