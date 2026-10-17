@@ -1,6 +1,6 @@
 # xrevive
 
-[English](README.md) · [Português](README.pt-BR.md) · [Español](README.es.md) · **中文**
+### [**English**](README.md) · [**Deutsch**](README.de.md) · [**Français**](README.fr.md) · [**Español**](README.es.md) · [**Italiano**](README.it.md) · [**Português (Brasil)**](README.pt-BR.md) · [**Русский**](README.ru.md) · [**العربية**](README.ar.md) · [**日本語**](README.ja.md) · **简体中文**
 
 一款用于运行经 [Xrecomp](https://github.com/Teraflopping/Xrecomp) 重编译的初代 Xbox 游戏的桌面启动器，并提供来自 Xbox Live 复兴项目 [xb.live](https://xb.live) 的在线服务。
 
