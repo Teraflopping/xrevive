@@ -38,7 +38,7 @@ Gli eseguibili dei giochi ospitati supportano attualmente **Windows x64**. Su Li
 
 ## I giochi li porti tu
 
-xrevive non include ISO né file dei giochi. Usa i tuoi file di gioco. Questa versione scarica eseguibili pubblicati invece di compilare i giochi in locale; i giochi senza un eseguibile disponibile possono essere estratti per usarli in seguito.
+xrevive non include ISO né file dei giochi. Usa i tuoi file di gioco. Questa versione scarica eseguibili pubblicati invece di compilare i giochi in locale.
 
 Il launcher e l'installer per Windows sono firmati Authenticode. Gli aggiornamenti del launcher sono firmati con la chiave di aggiornamento di xrevive. I pacchetti per macOS non sono notarizzati, quindi alla prima installazione su macOS possono comparire avvisi di sicurezza.
 

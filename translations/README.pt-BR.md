@@ -38,7 +38,7 @@ Os executáveis dos jogos hospedados atualmente suportam **Windows x64**. No Lin
 
 ## Você traz os jogos
 
-O xrevive não inclui ISOs nem arquivos dos jogos. Use seus próprios arquivos. Esta versão baixa executáveis publicados em vez de compilar os jogos localmente; jogos sem executável disponível podem ser extraídos para uso futuro.
+O xrevive não inclui ISOs nem arquivos dos jogos. Use seus próprios arquivos. Esta versão baixa executáveis publicados em vez de compilar os jogos localmente.
 
 O launcher e o instalador para Windows têm assinatura Authenticode. As atualizações do launcher são assinadas com a chave de atualização do xrevive. Os pacotes para macOS não são notarizados, então avisos de segurança podem aparecer na primeira instalação no macOS.
 

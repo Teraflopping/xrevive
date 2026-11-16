@@ -38,7 +38,7 @@ The hosted game executables currently support **Windows x64**. On Linux they can
 
 ## You bring the games
 
-xrevive does not include game ISOs or assets. Supply your own game files. This version downloads published executables instead of compiling games locally; titles without an available executable can be extracted for later use.
+xrevive does not include game ISOs or assets. Supply your own game files. This version downloads published executables instead of compiling games locally.
 
 The Windows launcher and installer are Authenticode-signed. Launcher updates are signed with the xrevive update key. macOS packages are not notarized, so first-install security prompts may appear on macOS.
 

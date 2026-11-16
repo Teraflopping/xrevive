@@ -38,7 +38,7 @@ Les exécutables de jeux hébergés prennent actuellement en charge **Windows x6
 
 ## Vous apportez les jeux
 
-xrevive n'inclut aucune ISO ni aucun fichier de jeu. Utilisez vos propres fichiers de jeu. Cette version télécharge des exécutables publiés au lieu de compiler les jeux localement ; les jeux sans exécutable disponible peuvent être extraits pour plus tard.
+xrevive n'inclut aucune ISO ni aucun fichier de jeu. Utilisez vos propres fichiers de jeu. Cette version télécharge des exécutables publiés au lieu de compiler les jeux localement.
 
 Le lanceur et l'installateur Windows sont signés Authenticode. Les mises à jour du lanceur sont signées avec la clé de mise à jour de xrevive. Les paquets macOS ne sont pas notariés, des alertes de sécurité peuvent donc apparaître lors de la première installation sur macOS.
 

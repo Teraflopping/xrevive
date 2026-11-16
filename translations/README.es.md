@@ -38,7 +38,7 @@ Los ejecutables de los juegos alojados actualmente son compatibles con **Windows
 
 ## Tú pones los juegos
 
-xrevive no incluye ISOs ni archivos de los juegos. Usa tus propios archivos. Esta versión descarga ejecutables publicados en lugar de compilar los juegos localmente; los juegos sin ejecutable disponible pueden extraerse para usarlos más adelante.
+xrevive no incluye ISOs ni archivos de los juegos. Usa tus propios archivos. Esta versión descarga ejecutables publicados en lugar de compilar los juegos localmente.
 
 El launcher y el instalador para Windows tienen firma Authenticode. Las actualizaciones del launcher se firman con la clave de actualización de xrevive. Los paquetes para macOS no están notarizados, así que pueden aparecer avisos de seguridad en la primera instalación en macOS.
 

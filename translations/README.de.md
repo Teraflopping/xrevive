@@ -38,7 +38,7 @@ Die bereitgestellten Spiel-Executables unterstützen derzeit **Windows x64**. Un
 
 ## Du bringst die Spiele mit
 
-xrevive enthält keine Spiel-ISOs oder Spieldateien. Verwende deine eigenen Spieldateien. Diese Version lädt veröffentlichte Executables herunter, statt Spiele lokal zu kompilieren; Spiele ohne verfügbare Executable können für später entpackt werden.
+xrevive enthält keine Spiel-ISOs oder Spieldateien. Verwende deine eigenen Spieldateien. Diese Version lädt veröffentlichte Executables herunter, statt Spiele lokal zu kompilieren.
 
 Der Windows-Launcher und der Installer sind mit Authenticode signiert. Launcher-Updates sind mit dem xrevive-Update-Schlüssel signiert. macOS-Pakete sind nicht notarisiert, daher können unter macOS bei der ersten Installation Sicherheitshinweise erscheinen.
 
