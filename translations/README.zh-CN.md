@@ -4,6 +4,8 @@
 
 一款用于运行经 [Xrecomp](https://github.com/Teraflopping/Xrecomp) 重编译的初代 Xbox 游戏的桌面启动器，并提供来自 Xbox Live 复兴项目 [xb.live](https://xb.live) 的在线服务。
 
+自 2026 年 11 月 15 日起，xrevive 已支持所有初代 Xbox 游戏。
+
 ## 下载
 
 [下载 Windows x64 版](https://github.com/Teraflopping/xrevive/releases/latest) · [下载 Linux 版（AppImage）](https://github.com/Teraflopping/xrevive/releases/latest) · [所有安装包与更新说明](https://github.com/Teraflopping/xrevive/releases/latest)

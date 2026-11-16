@@ -4,6 +4,8 @@
 
 Un launcher desktop per i giochi della prima Xbox ricompilati con [Xrecomp](https://github.com/Teraflopping/Xrecomp), con i servizi online del revival di Xbox Live su [xb.live](https://xb.live).
 
+Dal 15 novembre 2026, xrevive supporta tutti i giochi della prima Xbox.
+
 ## Scarica
 
 [Scarica per Windows x64](https://github.com/Teraflopping/xrevive/releases/latest) · [Scarica per Linux (AppImage)](https://github.com/Teraflopping/xrevive/releases/latest) · [Tutti gli installer e le note di rilascio](https://github.com/Teraflopping/xrevive/releases/latest)

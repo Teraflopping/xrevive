@@ -4,6 +4,8 @@
 
 Um launcher para PC de jogos do Xbox original recompilados com o [Xrecomp](https://github.com/Teraflopping/Xrecomp), com serviços online do revival da Xbox Live em [xb.live](https://xb.live).
 
+Desde 15 de novembro de 2026, o xrevive suporta todos os jogos do Xbox original.
+
 ## Baixar
 
 [Baixar para Windows x64](https://github.com/Teraflopping/xrevive/releases/latest) · [Baixar para Linux (AppImage)](https://github.com/Teraflopping/xrevive/releases/latest) · [Todos os instaladores e notas de versão](https://github.com/Teraflopping/xrevive/releases/latest)

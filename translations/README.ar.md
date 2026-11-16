@@ -6,6 +6,8 @@
 
 مشغّل لسطح المكتب لألعاب Xbox الأصلي المُعاد تجميعها باستخدام [Xrecomp](https://github.com/Teraflopping/Xrecomp)، مع خدمات عبر الإنترنت من مشروع إحياء Xbox Live على [xb.live](https://xb.live).
 
+اعتبارًا من 15 نوفمبر 2026، يدعم xrevive جميع ألعاب Xbox الأصلي.
+
 ## تنزيل
 
 [تنزيل لنظام Windows x64](https://github.com/Teraflopping/xrevive/releases/latest) · [تنزيل لنظام Linux (AppImage)](https://github.com/Teraflopping/xrevive/releases/latest) · [كل ملفات التثبيت وملاحظات الإصدار](https://github.com/Teraflopping/xrevive/releases/latest)

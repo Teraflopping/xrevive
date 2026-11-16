@@ -4,6 +4,8 @@
 
 [Xrecomp](https://github.com/Teraflopping/Xrecomp) で再コンパイルした初代 Xbox ゲーム用のデスクトップランチャーです。オンラインサービスは Xbox Live 復活プロジェクト [xb.live](https://xb.live) が提供します。
 
+2026年11月15日時点で、xrevive は初代 Xbox のすべてのタイトルに対応しています。
+
 ## ダウンロード
 
 [Windows x64 版をダウンロード](https://github.com/Teraflopping/xrevive/releases/latest) · [Linux 版（AppImage）をダウンロード](https://github.com/Teraflopping/xrevive/releases/latest) · [すべてのインストーラーとリリースノート](https://github.com/Teraflopping/xrevive/releases/latest)

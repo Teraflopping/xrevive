@@ -4,6 +4,8 @@
 
 Настольный лаунчер для игр с первой Xbox, перекомпилированных с помощью [Xrecomp](https://github.com/Teraflopping/Xrecomp), с онлайн-сервисами возрождённого Xbox Live на [xb.live](https://xb.live).
 
+С 15 ноября 2026 года xrevive поддерживает все игры первой Xbox.
+
 ## Скачать
 
 [Скачать для Windows x64](https://github.com/Teraflopping/xrevive/releases/latest) · [Скачать для Linux (AppImage)](https://github.com/Teraflopping/xrevive/releases/latest) · [Все установщики и описания версий](https://github.com/Teraflopping/xrevive/releases/latest)
