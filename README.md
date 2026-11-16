@@ -4,7 +4,7 @@
 
 A desktop launcher for original Xbox games recompiled with [Xrecomp](https://github.com/Teraflopping/Xrecomp), with online services from the Xbox Live revival at [xb.live](https://xb.live).
 
-As of November 15, 2026, xrevive supports every original Xbox title.
+# As of November 15, 2026, xrevive supports every original Xbox title.
 
 ## Download
 
